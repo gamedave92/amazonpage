@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.title {
+    font-weight: lighter;
+    height: 100px;
+    width: 
+}
+
+/* This section is for the pictures. Cover and ratings. */
+.main-img {
+    width: 300px;
+    height: 300px;
+    box-shadow: 0px 2px 5px lightgray;
+}
+
+.ratings{
+    width: 100px;
+    height: 18px;
+    margin: 40 0 0 100;
+    background-position: -4px -42px;
+    }
+
+/* This is the container code */
+.container{
+    display: flex;
+    gap: 20px;
+}
+
+/* Meta Data sections*/
+
+.metadata{
+    justify-content: 
+}
